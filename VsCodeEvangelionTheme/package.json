@@ -1,8 +1,11 @@
 {
-  "name": "eva-theme",
-  "displayName": "Eva Theme",
-  "description": "",
-  "version": "1.0.0",
+  "name": "vs-code-eva-theme",
+  "displayName": "Vs Code Eva Theme",
+  "description": "Red, Black, White themed Visual Studio Code extension.",
+  "version": "1.1.0",
+  "publisher": "Sigmabudanov",
+  "icon": "img/icon.png",
+  "readme": "README.md",
   "engines": {
     "vscode": "^1.97.0"
   },
