@@ -21,5 +21,9 @@
         "path": "./themes/EvaTheme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spark4444/VsCodeEvangelionTheme"
   }
 }
