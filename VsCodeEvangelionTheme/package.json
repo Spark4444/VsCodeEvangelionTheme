@@ -1,0 +1,25 @@
+{
+  "name": "eva-theme",
+  "displayName": "Eva Theme",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eva Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EvaTheme.json"
+      }
+    ]
+  }
+}
