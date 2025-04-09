@@ -1,6 +1,8 @@
 # Visual Studio Code Evangelion Theme
 Red, Black, White themed Visual Studio Code extension.
 
+[Visual Studio Code link](https://marketplace.visualstudio.com/items/?itemName=Sigmabudanov.vs-code-eva-theme)
+
 ## Installation
 
 1. Press the blue button `<> Code`.
